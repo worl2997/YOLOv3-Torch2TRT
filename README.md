@@ -8,7 +8,7 @@ TensorRT 모델 변환 작업
 - 학습 모델 Torch -> ONNX -> TensorRT 변환 후 성능 측정 
 - NVIDIA GPU에서 추론속도 향항
 - Torch 프레임워크로 학습된 모델을 그대로 변경 가능 
-- 변경된 모델은 TensorRT 뚜햐ㅜㅎ tkddptj ehdwkr 
+- 변경된 모델은 TensorRT Engine 상에서 동작
 - TensorRT 변환을 위한 환경 구축 관련 링크 : https://github.com/NVIDIA-AI-IOT/torch2trt
 
 ![image](transform.png)
